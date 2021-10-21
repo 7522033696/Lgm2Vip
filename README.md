@@ -1,1 +1,1 @@
-# Lgm2Vip
+# LGM-task-2
